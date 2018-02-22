@@ -1,0 +1,15 @@
+com\dzemiashkevich\nicehash\action\URLFormatter.class
+com\dzemiashkevich\nicehash\entity\ParserResponse.class
+com\dzemiashkevich\nicehash\action\JsoupConnecter.class
+com\dzemiashkevich\nicehash\action\CalculateParser.class
+com\dzemiashkevich\nicehash\entity\income\DateIncome.class
+com\dzemiashkevich\nicehash\service\CalculatorService.class
+com\dzemiashkevich\nicehash\entity\ParserRequest.class
+com\dzemiashkevich\nicehash\entity\ParserCustomRequest.class
+com\dzemiashkevich\nicehash\entity\income\Currency.class
+com\dzemiashkevich\nicehash\entity\income\WeekIncome.class
+com\dzemiashkevich\nicehash\entity\income\DayIncome.class
+com\dzemiashkevich\nicehash\Runner.class
+com\dzemiashkevich\nicehash\entity\income\MonthIncome.class
+com\dzemiashkevich\nicehash\entity\income\Income.class
+com\dzemiashkevich\nicehash\controller\CalculatorController.class
